@@ -6,6 +6,9 @@ Note: This application is only intended for testing purposes and not for real-wo
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)]
 (https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fgabesmsft%2FShowRequestHeaders%2Fmaster%2Fdeploy%2Fazuredeploy.json) 
 
+
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fgabesmsft%2FShowRequestHeaders%2Fmaster%2Fdeploy%2Fazuredeploy.json)
+
 ### Log Analytics Workspace
 
 A log Analytics workspace is deployed, which is required for the Container App Environment deployment.
