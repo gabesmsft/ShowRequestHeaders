@@ -82,7 +82,7 @@
 					"containers": [
 						{
 							"name": "mycontainer",
-							"image": "[parameters('containerimage')]",
+							"image": "[parameters('containerimage')]"
 						}
 					]
 				}
