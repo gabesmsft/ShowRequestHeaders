@@ -21,7 +21,7 @@
     "containerappname": {
       "type": "string",
       "defaultValue": "showrequestheaders"
-    }
+    },
     "containerimage": {
       "type": "string",
       "defaultValue": "docker.io/gfakedocker/showrequestheaders:latest"
